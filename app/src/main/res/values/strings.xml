@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LooperSandbox</string>
+
+    <string name="action_start_ui">UI</string>
+    <string name="action_start_alt">Alt</string>
+    <string name="action_stop">Stop</string>
+
+</resources>
